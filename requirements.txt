@@ -1,6 +1,6 @@
-streamlit
-requests
+fastapi
+uvicorn
+python-multipart
+tensorflow==2.17.1
 numpy
-opencv-python-headless
-tensorflow
 opencv-python-headless
